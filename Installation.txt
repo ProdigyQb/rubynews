@@ -1,0 +1,3 @@
+Installiere ruby  -> Installation der Ruby Bibliotheken rss und open-uri durch gem install
+Ausführen der Datei
+Aus der cmd heraus per ruby rss.rb
